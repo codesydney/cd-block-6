@@ -1,3 +1,6 @@
+
+![CD-BLOCK-6](https://github.com/codesydney/cd-block-6/assets/7553347/92629105-9d7f-4646-886f-4b34abd475b1)
+
 ### CD-BLOCK-6 ###
 ## Signup/Signin Module ##
 
